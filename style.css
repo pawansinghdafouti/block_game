@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Labrada:wght@300&family=Poppins:ital,wght@0,400;0,500;1,900&display=swap');
+
+body{
+    background: rgb(174,189,238);
+background: radial-gradient(circle, rgba(174,189,238,1) 37%, rgba(108,70,223,1) 100%);
+    color: white;
+    font-family: "Poppins";
+    font-size: 2em;
+    text-align: center;
+}
+canvas{
+    border: .2em solid rgb(255, 255, 255);
+    height: 86vh;
+}
